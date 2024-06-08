@@ -37,7 +37,7 @@
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=adalfarus&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 <p align="center">
