@@ -4,9 +4,9 @@
 <div>
 
 ### Languages:
-| Python3 | C |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+| Python3 | C | Lang |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="/assets/lang_logo_no_background.png" title="Lang" alt="Lang" width="55" height="55"/> |
 
 
 ### Best frameworks and main libraries for Python3:
