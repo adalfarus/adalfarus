@@ -27,7 +27,7 @@
 
 | Windows | Ubuntu | Arch |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" title="Arch" alt="Arch" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="Arch" alt="Arch" width="55" height="55"/> |
 
 
 <p align="center">
