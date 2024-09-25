@@ -1,5 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adalfarus&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Currently working on
+- Learning Rust & Qt in Rust
+- APlusTools 2
+- Project using video compression
+- ...
+- Zeekit (is a bit much at the moment)
+
 ## Languages and Tools 
 <div>
 
