@@ -2,8 +2,8 @@
 
 ## Currently working on
 - APlusTools 2
-- > Long term comic storage project (using video compression)
-- > ManhwaViewer 1.7
+  - Long term comic storage project (using video compression)
+  - ManhwaViewer 1.7
 - Learning Rust & Qt in Rust
 - ...
 - Zeekit (is a bit much at the moment)
