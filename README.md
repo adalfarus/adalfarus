@@ -12,9 +12,20 @@
 <div>
 
 ### Languages:
-| Python3 | C | Lang | Rust |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="/assets/lang_logo_no_background.png" title="Lang" alt="Lang" width="55" height="55"/> |  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="55" height="55"/> |
+
+#### Expert:
+| Python3 |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+
+#### Proficient:
+
+#### Intermediate:
+
+#### Beginner:
+| C | Lang | Rust | C++ | C# | Swift | TypeScript |
+|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="/assets/lang_logo_no_background.png" title="Lang" alt="Lang" width="55" height="55"/> |  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"  alt="Swift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts"  alt="Ts" width="55" height="55"/> |
 
 
 ### Best frameworks and main libraries for Python3:
