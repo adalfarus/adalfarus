@@ -7,6 +7,7 @@
 - Learning Rust & Qt in Rust
 - ...
 - Zeekit (is a bit much at the moment)
+- ManhwaViewer 2.0
 
 ## Languages and Tools 
 <div>
