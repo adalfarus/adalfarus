@@ -1,13 +1,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adalfarus&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Currently working on
-- APlusTools 2
+- APlusTools 2 (basically ending my time with Python)
   - Long term comic storage project (using video compression)
   - ManhwaViewer 1.7
-- Learning Rust & Qt in Rust
+  - ManhwaViewer 2.0
+  > Combination of efficient long term comic storage and ManhwaViewer
+- Learning Languages (Rust, C, C++, C#)
+- Becoming good in Languages (Rust, C)
 - ...
-- Zeekit (is a bit much at the moment)
-- ManhwaViewer 2.0
+- Learn Qt in Rust
+- Zeekit & other abandoned projects
 
 ## Languages and Tools 
 <div>
