@@ -1,16 +1,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adalfarus&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Currently working on
-- APlusTools 2 (basically ending my time with Python)
-  - Long term comic storage project (using video compression)
-  - ManhwaViewer 1.7
-  - ManhwaViewer 2.0
-  > Combination of efficient long term comic storage and ManhwaViewer
+- Dancer (relies on aplustools2)
+- APlusTools 2 (cryptography)
+- Content Library Server
+- ManhwaViewer 1.7
+- ManhwaViewer 2.0
+  > Interfaces with Content Library Server
 - Learning Languages (Rust, C, C++, C#)
-- Becoming good in Languages (Rust, C)
-- ...
 - Learn Qt in Rust
-- Zeekit & other abandoned projects
+- Leave side projects in an acceptable state
 
 ## Languages and Tools 
 <div>
@@ -56,10 +55,9 @@
 
 ### OS:
 
-| Windows | Ubuntu | Arch |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="Arch" alt="Arch" width="55" height="55"/> |
-
+| Windows | Ubuntu | Arch | NixOS |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="55" height="55"/> |
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=adalfarus&show_icons=true&theme=transparent">
