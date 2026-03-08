@@ -1,15 +1,24 @@
 [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=adalfarus&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Currently working on
-- Dancer (relies on aplustools2)
-- APlusTools 2 (cryptography)
+- AceSecurity
+- SystemCross
+- Endpoint.cli
+- Dancer
 - Content Library Server
 - ManhwaViewer 1.7
 - ManhwaViewer 2.0
   > Interfaces with Content Library Server
 - Learning Languages (Rust, C, C++, C#)
-- Learn Qt in Rust
+- Learn a good GUI in Rust
 - Leave side projects in an acceptable state
+
+## My Python tools
+- Chronix (Timer utility)
+- ArguMint (Basic CLI)
+- Endpoint.cli (Advanced CLI)
+- SystemCross (File locking, notifications, ...)
+- AceSecurity (Passwords, weighted random, cryptography, ...)
 
 ## Languages and Tools 
 <div>
