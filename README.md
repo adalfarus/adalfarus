@@ -59,17 +59,3 @@ Hello, in protest to yet another new opt-out AI "feature" from GH, I will be per
 | Arch | NixOS |
 |----------|----------|
 | <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="55" height="55"/> |
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=adalfarus&show_icons=true&theme=transparent">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalfarus&size_weight=0.15&count_weight=0.5&layout=compact&theme=transparent">
-</p>
- 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=adalfarus&style=for-the-badge&color=blue" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
