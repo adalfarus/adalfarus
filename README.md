@@ -1,4 +1,4 @@
-Hello, in protest to yet another new opt-out AI "feature" from GH, I will be permenantly moving to codeberg.org/cariel-becker. The most important projects will be configured as push mirrors but I will be deleting the rest, so please visit me over there if you don't find the project your looking for here.
+Hello, in protest to yet another new opt-out AI "feature" from GH, I will be permanently moving to codeberg.org/cariel-becker. The most important projects will be configured as push mirrors but I will be deleting the rest, so please visit me over there if you don't find the project your looking for here.
 
 ## Currently working on
 - AceSecurity
